@@ -53,10 +53,5 @@ src="https://img.shields.io/twitter/follow/AomoiThetan?logo=twitter&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MochaDecoder"><img src="https://github-readme-stats.vercel.app/api?username=MochaDecoder&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="MochaDecoder's GitHub stats" /></a>
-
 <a href="http://www.github.com/MochaDecoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MochaDecoder&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/MochaDecoder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MochaDecoder&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MochaDecoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochaDecoder&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
